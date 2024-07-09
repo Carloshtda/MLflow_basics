@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Profissional/Cursos/yt/mlops/mlflow/mlflow_dvc_project/mlruns/0/732d3ee48dc747b1b44263d79fcc8153/artifacts
+end_time: 1720493841011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 732d3ee48dc747b1b44263d79fcc8153
+run_name: useful-newt-469
+run_uuid: 732d3ee48dc747b1b44263d79fcc8153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720493836167
+status: 3
+tags: []
+user_id: CarlosHenriqueTorres

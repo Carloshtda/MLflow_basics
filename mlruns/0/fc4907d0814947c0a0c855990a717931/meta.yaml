@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Profissional/Cursos/yt/mlops/mlflow/mlflow_dvc_project/mlruns/0/fc4907d0814947c0a0c855990a717931/artifacts
+end_time: 1720493522836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc4907d0814947c0a0c855990a717931
+run_name: defiant-croc-621
+run_uuid: fc4907d0814947c0a0c855990a717931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720493518206
+status: 3
+tags: []
+user_id: CarlosHenriqueTorres
